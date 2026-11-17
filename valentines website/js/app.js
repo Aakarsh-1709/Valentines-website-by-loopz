@@ -56,7 +56,7 @@ no.addEventListener("click", () => {
 // changes for when YES button is clicked
 yes.addEventListener("click", () => {
   vid.style.display = "block";
-  gif.src = "../resources/idc.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
+  gif.src = "resources/idc.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
   text.innerHTML = "YAYAYAYAYYAY JAANUUUUU";
   yes.innerHTML = '<a href="https://www.instagram.com/aakarshsaxena07_/">Call me 💋</a>';// inside the " " put your social media profile link
   yes.style.height = "90%";
